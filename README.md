@@ -13,6 +13,14 @@
 #### Experience
 - Production Engineer from UFSM
 - IBM Data Science Professional Certificate
+- IBM Data Warehouse Engineer
+
+#### Specializations
+- Software Product Management by University of Alberta
+- BI Foundations with SQL, ETL and Data Warehousing Specialization
+- Applied Data Science
+- Data Engineering Foundations
+- Data Science Fundamentals with Python and SQL
 
 #### Interests
 I'm currently pursuing my IBM Data Engineering Professional Certificate and am interested in exploring the following areas:
