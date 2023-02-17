@@ -17,7 +17,7 @@
 
 #### Specializations
 - Software Product Management by University of Alberta
-- BI Foundations with SQL, ETL and Data Warehousing Specialization
+- BI Foundations with SQL, ETL and Data Warehousing
 - Applied Data Science
 - Data Engineering Foundations
 - Data Science Fundamentals with Python and SQL
