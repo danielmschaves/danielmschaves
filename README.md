@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Daniel Chaves, a Data Engineering and Data Science enthusiast.
 
-<!--
-**danielmschaves/danielmschaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am committed to incorporating the best practices in agile methodologies, innovation, and data-driven decision-making into software processes to produce exceptional products. I specialize in Project and Product Management using Business Intelligence tools like Power BI and SQL, and I'm always looking to improve and optimize systems through automation and pipeline building.
 
-Here are some ideas to get you started:
+#### Skills
+- Project and Product Management
+- Business Intelligence
+- Data Engineering
+- Data Science
+- Cloud Computing
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experience
+- Production Engineer from UFSM
+- IBM Data Science Professional Certificate
+
+#### Interests
+I'm currently pursuing my IBM Data Engineering Professional Certificate and am interested in exploring the following areas:
+- Big Data
+- Cloud Computing
+- Machine Learning
+- Data Science
