@@ -1,8 +1,12 @@
-### Hi there 👋 I'm Daniel Chaves, a Data Engineering and Data Science enthusiast.
+### 👋 Hey there! I'm Daniel Chaves, a Data Engineering and Data Science enthusiast on a mission to craft outstanding software products with the power of data-driven decisions.
 
-#### I am committed to incorporating the best practices in agile methodologies, innovation, and data-driven decision-making into software processes to produce exceptional products. I specialize in Project and Product Management using Business Intelligence tools like Power BI and SQL, and I'm always looking to improve and optimize systems through automation and pipeline building.
+#### 🚀 My expertise:
+- Passionate about Agile methodologies, innovation, and best practices in software development
+- Skilled in Project and Product Management using Business Intelligence tools like Power BI and SQL
+- Focused on continuous improvement, optimization, and automation in systems and pipeline building
 
-#### Skills
+#### 💼 Skills:
+
 - Project and Product Management
 - Business Intelligence
 - Data Engineering
@@ -10,21 +14,27 @@
 - Cloud Computing
 - Machine Learning
 
-#### Experience
+#### 🎓 Experience & Education:
+
 - Production Engineer from UFSM
 - IBM Data Science Professional Certificate
 - IBM Data Warehouse Engineer
 
-#### Specializations
+#### 🏆 Specializations:
+
 - Software Product Management by University of Alberta
-- BI Foundations with SQL, ETL and Data Warehousing
+- BI Foundations with SQL, ETL, and Data Warehousing
 - Applied Data Science
 - Data Engineering Foundations
 - Data Science Fundamentals with Python and SQL
 
-#### Interests
-I'm currently pursuing my IBM Data Engineering Professional Certificate and am interested in exploring the following areas:
-- Big Data
-- Cloud Computing
-- Machine Learning
-- Data Science
+#### 🔭 Current Pursuits & Interests:
+
+- Working towards my IBM Data Engineering Professional Certificate
+- Eager to delve deeper into:
+  - Big Data
+  - Cloud Computing
+  - Machine Learning
+  - Data Science
+
+Feel free to connect with me on LinkedIn. Let's collaborate and make an impact with data! 💡
