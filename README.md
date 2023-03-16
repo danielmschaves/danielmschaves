@@ -9,6 +9,7 @@
 
 - Project and Product Management
 - Business Intelligence
+- ETL
 - Data Engineering
 - Data Science
 - Cloud Computing
