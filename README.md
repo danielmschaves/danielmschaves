@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Daniel Chaves, a Data Engineering and Data Science enthusiast on a mission to craft outstanding software products with the power of data-driven decisions.
+## 👋 Hey there! I'm Daniel Chaves, a Data Engineering and Data Science enthusiast on a mission to craft outstanding software products with the power of data-driven decisions.
 
 #### 🚀 My expertise:
 - Passionate about Agile methodologies, innovation, and best practices in software development
