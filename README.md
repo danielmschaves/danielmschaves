@@ -18,12 +18,13 @@
 #### 🎓 Experience & Education:
 
 - Production Engineer from UFSM
+- Software Product Management by University of Alberta
 - IBM Data Science Professional Certificate
 - IBM Data Warehouse Engineer
+- IBM Data Engineering Professional Certificate
 
 #### 🏆 Specializations:
 
-- Software Product Management by University of Alberta
 - BI Foundations with SQL, ETL, and Data Warehousing
 - Applied Data Science
 - Data Engineering Foundations
@@ -35,8 +36,8 @@
 - Eager to delve deeper into:
   - Big Data
   - Cloud Computing
-  - Machine Learning
-  - Data Science
+  - Data Platforms
+  - Modern Data Stacks
 
 Feel free to connect with me on LinkedIn. Let's collaborate and make an impact with data! 💡
 
