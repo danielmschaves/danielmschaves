@@ -32,7 +32,6 @@
 
 #### 🔭 Current Pursuits & Interests:
 
-- Working towards my IBM Data Engineering Professional Certificate
 - Eager to delve deeper into:
   - Big Data
   - Cloud Computing
